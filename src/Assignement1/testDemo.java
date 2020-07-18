@@ -5,6 +5,7 @@ public class testDemo {
 	public void sum() {
 		
 		System.out.println( "nO METHOD DEFINE" );
+		System.out.println("updated method");
 		
 	}
 
